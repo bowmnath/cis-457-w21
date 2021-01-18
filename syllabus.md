@@ -90,6 +90,10 @@ Kurose & Ross; Pearson, 2016
 | D            |  60%         |
 | F            | <60%         |
 
+Up to 1 percent extra credit on the final course grade will be awarded for
+improving video transcripts in ClassTranscribe.
+More details about this will be given in a lecture.
+
 ## Important Dates
 
 Deadline to drop with a "W" grade: April 9, 2021, by 5 pm.

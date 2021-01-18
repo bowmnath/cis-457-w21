@@ -1,7 +1,7 @@
 ## Welcome to CIS 457!
 
 This is the main website for the course.
-The slides, schedule, and links to assignments, labs, and projects,
+The slides, schedule, and links to assignments, labs, projects, and videos,
 as well as the official course policies,
 will be posted here.
 The course also uses other websites for specific purposes.
@@ -24,6 +24,13 @@ announcements
       [https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09](https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09)
 * [Prairielearn](https://prairielearn.engr.illinois.edu/pl/) is where you will
 submit all of your assignments, labs, and projects.
+* [ClassTranscribe](https://classtranscribe.illinois.edu/) is where the videos
+will be hosted.
+
+That seems like a lot to monitor,
+but don't worry -- you really need only actively follow Piazza.
+I will release announcements there any time assignments or videos are posted,
+and I will post links to them directly on this page.
 
 Be sure to read through the [syllabus](syllabus.md) for course policies,
 contact information, and other important info.
