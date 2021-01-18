@@ -1,0 +1,51 @@
+## Welcome to CIS 457!
+
+This is the main website for the course.
+The slides, schedule, and links to assignments, labs, and projects,
+as well as the official course policies,
+will be posted here.
+The course also uses other websites for specific purposes.
+* [Piazza](piazza.com/gvsu/winter2021/cis457/home) is a question-and-answer forum.
+*All official announcements will be sent through Piazza*,
+and you are responsible for monitoring Piazza to keep up to date with
+announcements
+(Piazza by default will send an email when an announcement is posted).
+    * Signup link:
+      [piazza.com/gvsu/winter2021/cis457](piazza.com/gvsu/winter2021/cis457).
+    * You can read the following [Piazza FAQ](misc/piazza-faq.md) if you have
+      questions.
+* [Zoom](https://zoom.us) will be the video conferencing service for office
+  hours and synchronous course meetings.
+    * Course meetings and labs:
+      [https://gvsu-edu.zoom.us/j/99095839766?pwd=eHZUbldONGg1UllaSTdqMHZMN3Vxdz09
+](https://gvsu-edu.zoom.us/j/99095839766?pwd=eHZUbldONGg1UllaSTdqMHZMN3Vxdz09
+)
+    * Office hours:
+      [https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09](https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09)
+* [Prairielearn](https://prairielearn.engr.illinois.edu/pl/) is where you will
+submit all of your assignments, labs, and projects.
+
+Be sure to read through the [syllabus](syllabus.md) for course policies,
+contact information, and other important info.
+
+## Schedule
+
+** Note: This is an estimated timeline and subject to change. **
+
+| Week | Topics | Readings | Deliverables |
+| ---- | ------ | -------- | ------------ |
+|  1   | Introduction to Networking | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
+|  2   | Application Layer | | |
+|  3   | Application Layer | | |
+|  4   | Transport Layer | | |
+|  5   | Transport Layer | | |
+|  6   | Network Layer | | |
+|  7   | Network Layer | | |
+|  8   | Network Layer (Routing) | | |
+|  9   | Network Layer (Routing) | | |
+|  10  | Link Layer | | |
+|  11  | Link Layer | | |
+|  12  | Wireless and Mobile Networks | | |
+|  13  | Security | | |
+|  14  | TBD | | |
+|  15  | **Final Exam** | | |
