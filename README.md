@@ -41,7 +41,7 @@ contact information, and other important info.
 
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
-|  1   | Introduction to Networking | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
+|  1   | Introduction to Networking | Chapter 1 | |
 |  2   | Application Layer | | |
 |  3   | Application Layer | | |
 |  4   | Transport Layer | | |
