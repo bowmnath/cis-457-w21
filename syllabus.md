@@ -20,7 +20,7 @@ Zoom link for office hours:
 [https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09](https://gvsu-edu.zoom.us/j/98637553783?pwd=RzJsazNrcDhFemFRTCtvN2xiblFnUT09)
 
 The best way to contact me about the course is through
-[Piazza](piazza.com/gvsu/winter2021/cis457/home).
+[Piazza](https://www.piazza.com/gvsu/winter2021/cis457/home).
 I also regularly monitor the channel for this course on the unofficial
 GVSU Discord,
 though I will not post official announcements there and you are not responsible
