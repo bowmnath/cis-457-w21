@@ -42,7 +42,7 @@ contact information, and other important info.
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
 |  1   | Introduction to Networking | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
-|  2   | Application Layer | | |
+|  2   | Application Layer | | **Monday 1/25** [Wireshark lab](https://prairielearn.engr.illinois.edu/pl/) |
 |  3   | Application Layer | | |
 |  4   | Transport Layer | | |
 |  5   | Transport Layer | | |
