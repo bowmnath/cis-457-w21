@@ -43,7 +43,7 @@ Synchronous meeting times will occur twice weekly:
 
 Zoom link for meetings and labs:
 [https://gvsu-edu.zoom.us/j/99095839766?pwd=eHZUbldONGg1UllaSTdqMHZMN3Vxdz09](https://gvsu-edu.zoom.us/j/99095839766?pwd=eHZUbldONGg1UllaSTdqMHZMN3Vxdz09)
-(not that this is *different* from the meeting link for office hours)
+(note that this is *different* from the meeting link for office hours)
 
 The lab sections on Tuesdays will begin with a brief introduction of the
 week's lab followed by time to work with your partner and ask questions about
