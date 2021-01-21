@@ -41,7 +41,7 @@ contact information, and other important info.
 
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
-|  1   | Introduction to Networking | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
+|  1   | Introduction to Networking<br>[videos](https://classtranscribe.illinois.edu/offering/25085901-57c3-4816-bd31-47cb85cd70b8#plid=ebdb1fdc-4043-4830-bd71-efc229385333)<br>[intro slides](slides/intro-intro.pdf)<br>[network core slides](slides/intro-core.pdf)<br>[protocol stack slides](slides/intro-protocols.pdf) | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
 |  2   | Application Layer | | **Monday 1/25** [Wireshark lab](https://prairielearn.engr.illinois.edu/pl/) |
 |  3   | Application Layer | | |
 |  4   | Transport Layer | | |
