@@ -42,7 +42,7 @@ contact information, and other important info.
 | Week | Topics | Readings | Deliverables |
 | ---- | ------ | -------- | ------------ |
 |  1   | Introduction to Networking<br>[videos](https://classtranscribe.illinois.edu/offering/25085901-57c3-4816-bd31-47cb85cd70b8#plid=ebdb1fdc-4043-4830-bd71-efc229385333)<br>[intro slides](slides/intro-intro.pdf)<br>[network core slides](slides/intro-core.pdf)<br>[protocol stack slides](slides/intro-protocols.pdf) | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
-|  2   | Application Layer<br><br>[Monday activity](activities/week-01-intro.md) | | **Monday 1/25** [Wireshark lab](https://prairielearn.engr.illinois.edu/pl/)<br>**Monday 1/25** [Lab partner survey](https://forms.gle/tkKudsEMCajn2vXAA) |
+|  2   | Application Layer<br>[videos (so far)]()<br>[application-layer intro slides](slides/app-intro.pdf)<br>[application-transport interface slides](slides/app-transport.pdf)<br>[HTTP slides](slides/app-http-intro.pdf)<br>[HTTP format slides](slides/app-http-format.pdf)<br><br>[Monday activity](activities/week-01-intro.md) | | **Monday 1/25** [Wireshark lab](https://prairielearn.engr.illinois.edu/pl/)<br>**Monday 1/25** [Lab partner survey](https://forms.gle/tkKudsEMCajn2vXAA) |
 |  3   | Application Layer | | |
 |  4   | Transport Layer | | |
 |  5   | Transport Layer | | |
