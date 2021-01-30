@@ -43,7 +43,7 @@ contact information, and other important info.
 | ---- | ------ | -------- | ------------ |
 |  1   | Introduction to Networking<br>[intro slides](slides/intro-intro.pdf)<br>[network core slides](slides/intro-core.pdf)<br>[protocol stack slides](slides/intro-protocols.pdf)<br><br>[videos](https://classtranscribe.illinois.edu/offering/25085901-57c3-4816-bd31-47cb85cd70b8#plid=ebdb1fdc-4043-4830-bd71-efc229385333) | Chapter 1 | **Friday 1/22** [Syllabus quiz](https://prairielearn.engr.illinois.edu/pl/) |
 |  2   | Application Layer<br>[application-layer intro slides](slides/app-intro.pdf)<br>[application-transport interface slides](slides/app-transport.pdf)<br>[HTTP slides](slides/app-http-intro.pdf)<br>[HTTP format slides](slides/app-http-format.pdf)<br>[cookies slides](slides/app-http-cookies.pdf)<br>[delay slides](slides/intro-delay-intensity.pdf)<br>[throughput slides](slides/intro-throughput.pdf)<br>[web cache slides](slides/app-http-cache.pdf)<br><br>[videos](https://classtranscribe.illinois.edu/offering/25085901-57c3-4816-bd31-47cb85cd70b8#plid=296dd3bf-3e8c-457e-b44c-98498a10bb85)<br>[Monday activity](activities/week-01-intro.md) | | **Monday 1/25** [Wireshark lab](https://prairielearn.engr.illinois.edu/pl/)<br>**Monday 1/25** [Lab partner survey](https://forms.gle/tkKudsEMCajn2vXAA) |
-|  3   | Application Layer | | |
+|  3   | Application Layer | | **Tuesday 2/2** [Lab 2 (HTTP)](https://www.prairielearn.org/pl/course_instance/128487/assessment/2309340) |
 |  4   | Transport Layer | | |
 |  5   | Transport Layer | | |
 |  6   | Network Layer | | |
