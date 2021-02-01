@@ -51,11 +51,11 @@ between two computers.
 hostname and a path.
 
 10. A hypothetical web page consists of 4 total objects.
-Each object takes $T_{obj}$ to transmit.
+Each object takes `T_obj` to transmit.
 Assuming a persistent connection is used,
 how long will it take to download the entire web page from the moment the
 request is sent?
-Give your answer in terms of round-trip time (RTT) and $T_{obj}$.
+Give your answer in terms of round-trip time (RTT) and `T_obj`.
 
 11. Why does an HTTP server specify a last-modified date for a file?
 
