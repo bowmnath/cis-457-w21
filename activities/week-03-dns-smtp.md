@@ -41,9 +41,9 @@ If you visit `cis.gvsu.edu/~bowmnath/index.html`,
 how many DNS requests will your server need to make
 (ones that it cannot satisfy from its cache)?
 
-6. What is the difference between an MS record for `gvsu.edu` and an A record
+6. What is the difference between an MX record for `gvsu.edu` and an A record
 for `gvsu.edu`?
-If I have an MS record,
+If I have an MX record,
 do I have all the information I need to contact the `gvsu.edu` mail server?
 
 7. A recursive DNS request results in the client sending fewer DNS messages
