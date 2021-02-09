@@ -1,5 +1,5 @@
 '''
-Example TCP client.
+Example TCP server.
 
 Taken from Kurose and Ross with slight modifications.
 Example is for demonstration purposes and does not include error-checking
