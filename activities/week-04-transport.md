@@ -78,7 +78,7 @@ Why or why not?
 If two clients send UDP segments to the same (IP, port) pair,
 why are they not interfering with one another's connections?
 
-13. Why might using UDP as the trasport protocol for a video streaming service
+13. Why might using UDP as the transport protocol for a video streaming service
 be frowned upon?
 
 14. Ethernet is a link-layer protocol that provides error detection at the link
