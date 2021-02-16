@@ -47,7 +47,7 @@ contact information, and other important info.
 |  4   | Socket Programming<br>[socket programming slides](slides/app-socket.pdf)<br><br>Transport Layer<br>[multiplexing slides](slides/tr-multiplexing.pdf)<br>[UDP slides](slides/tr-udp.pdf)<br><br>[videos](https://classtranscribe.illinois.edu/offering/25085901-57c3-4816-bd31-47cb85cd70b8#plid=a26da01d-d411-41af-ac59-822cd72d0f87)<br>[Monday activity](activities/week-03-dns-smtp.md) | 3.1-3.3 | **Monday 2/8** [Lab 3 (DNS)](https://www.prairielearn.org/pl/course_instance/128487/assessment/2309535) |
 |  5   | Transport Layer<br><br>[Monday activity](activities/week-04-transport.md) | | **Monday 2/15** [Lab 4 (Sockets)](https://www.prairielearn.org/pl/course_instance/128487/assessment/2309650) |
 |  6   | Network Layer | | |
-|  7   | Network Layer | | |
+|  7   | Network Layer | | **Friday 3/5** [Project 1 (FTP)](https://www.prairielearn.org/pl/course_instance/128487/assessment/2309750) |
 |  8   | Network Layer (Routing) | | |
 |  9   | Network Layer (Routing) | | |
 |  10  | Link Layer | | |
