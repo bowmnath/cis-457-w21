@@ -51,7 +51,7 @@ Give the link interface for each of the following addresses:
 * 162.224.0.1
 * 162.3.2.1
 * 161.3.2.1
-* 161.253.2.1
+* 163.253.2.1
 
 Note: `10100010b = 162`, `10100011b = 163`, and `11100000b = 224`.
 
