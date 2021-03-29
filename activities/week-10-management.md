@@ -94,6 +94,7 @@ Note: some questions are taken entirely or in part from your textbook.
     You can check your answer by performing the CRC as the receiver using your
     determined value of R.
 
+    <!--
     Compute R:
     ```
               1100 100
@@ -133,3 +134,4 @@ Note: some questions are taken entirely or in part from your textbook.
                  0 000
                    000  <-- verified
     ```
+    -->
