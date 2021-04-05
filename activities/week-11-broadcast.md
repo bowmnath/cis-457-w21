@@ -46,7 +46,7 @@ Note: some questions are taken entirely or in part from your textbook.
    What is the probability that there will be a collision between those senders
    in the next slot?
    What is the probability that the next slot will be wasted
-   (either neither sends or both send).
+   (either neither sends or both send)?
 
 7. What is "carrier sense" and why is it helpful?
 
