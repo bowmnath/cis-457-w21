@@ -37,8 +37,10 @@ Note: some questions are taken entirely or in part from your textbook.
    Why or why not?
 
 6. Consider hosts A and B using CDMA with the following chipping sequences:
-   * A: `1  1  1 -1  1 -1 -1  1`
-   * B: `1 -1  1  1  1 -1  1 -1`
+   ```
+   A: 1  1  1 -1  1 -1 -1  1
+   B: 1 -1  1  1  1 -1  1 -1
+   ```
 
    A receiver receives the following signal in one time slot:
    ```
