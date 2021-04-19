@@ -100,7 +100,7 @@ Deadline to drop with a "W" grade: April 9, 2021, by 5 pm.
 
 Midterm Exam: Tuesday, March 9
 
-Final Exam: TBD
+Final Exam: Wednesday, April 28, 10 AM - 11:50 AM
 
 ## Course Policies
 
